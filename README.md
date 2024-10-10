@@ -1,7 +1,7 @@
 # PRUEBA_CURSO
 Repositorio para realizar pruebas de clonado,  y pullommit
 Estudiantes:
-1- Martin I. Sosa Tula
+1- Martin  Sosa Tula
 2-
 3-
 4-
