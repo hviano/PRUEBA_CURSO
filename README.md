@@ -2,7 +2,7 @@
 Repositorio para realizar pruebas de clonado,  y pullommit
 Estudiantes:
 1- Martin Ignacio Sosa Tula
-2-
+2- Hugo Viano
 3-
 4-
 5-
@@ -13,4 +13,8 @@ Estudiantes:
 10-
 11-
 12-
+13-
+14-
+15-
+
 
