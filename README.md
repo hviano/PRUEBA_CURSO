@@ -2,7 +2,7 @@
 Repositorio para realizar pruebas de clonado,  y pullommit
 Estudiantes:
 1- Hugo Viano
-2- Carlos Ariza
+2- 
 3- 
 4-
 5-
