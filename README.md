@@ -5,7 +5,7 @@ Repositorio para realizar pruebas de clonado,  y pullommit
    
  1- Hugo Viano  
    
- 2- Carlos Ariza  
+ 2- CARLOS ARIZA  
    
  3-  
    
