@@ -1,7 +1,7 @@
 **PRUEBA_CURSO**  
 Repositorio para realizar pruebas de clonado,  y pullommit  
    
- Estudiantes:  
+ Participantes:  
    
  1- Hugo Viano  
    
