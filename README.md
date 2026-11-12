@@ -13,7 +13,7 @@ Repositorio para realizar pruebas de clonado,  y pullommit
    
  5-  Garcia Rocio
    
- 6-  
+ 6- EZEQUIEL sosa
    
  7-  
    
